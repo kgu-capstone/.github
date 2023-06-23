@@ -7,6 +7,8 @@
 
 > [협업 노션](https://www.notion.so/sjiwon/2023-efb0f1490e4746ea899456da70a6fc22)
 
+<br>
+
 ## Frontend
 
 |<img width="150px" src="https://avatars.githubusercontent.com/u/70828192?v=4"/>|<img width="150px" src="https://avatars.githubusercontent.com/u/125268228?v=4"/>|<img width="150px" src="https://avatars.githubusercontent.com/u/91847313?v=4"/>|
@@ -15,6 +17,7 @@
 
 > [Frontend Repository](https://github.com/kgu-capstone/study-with-me-fe)
 
+<br>
 
 ## Backend
 
